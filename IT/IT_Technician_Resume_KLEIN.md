@@ -9,6 +9,6 @@ https://www.linkedin.com/in/dkleindev/
 
 ## Objective
 
-Dedicated musician and technology expert. Seeking an opportunity to learn and grow in tech, provide world class customer service and develop applications. 
+Dedicated musician and technology expert. Seeking opportunities to learn and grow in tech, provide world class customer service, and develop full-stack applications. 
 
 ## Experience 
