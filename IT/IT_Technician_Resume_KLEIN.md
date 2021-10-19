@@ -10,8 +10,16 @@ https://github.com/KleinHorn
 
 ## Objective
 
-Dedicated and skilled musician and technology expert. Seeking opportunities to learn and grow in IT support, provide world class customer service, and develop full-stack applications.
+Dedicated and skilled musician and technology professional. Seeking opportunities to learn and grow in IT support, provide world class customer service, and develop full-stack applications.
 
+## Core Qualifications
+
+- Windows/Mac/Linux/IOS/Android Proficient
+- Virtual machine proficiency
+- Source version control (Git)
+- MS Office and Google Suite
+- Problem solving
+- Basic networking
 
 ## Education 
 
