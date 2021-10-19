@@ -10,11 +10,15 @@ https://github.com/KleinHorn
 
 ## Objective
 
-Dedicated musician and technology expert. Seeking opportunities to learn and grow in tech, provide world class customer service, and develop full-stack applications. 
+Dedicated and skilled musician and technology expert. Seeking opportunities to learn and grow in IT support, provide world class customer service, and develop full-stack applications.
 
 
 ## Education 
 
+### Google IT Support Professional Certificate - Coursera, Online 2021
+### Bachelor of Music Education - Florida Atlantic University - Boca Raton - 2017-present
+
+### High School Diploma - Park Vista Community High School - Palm Beach County 2017
 
 ## Experience 
 
