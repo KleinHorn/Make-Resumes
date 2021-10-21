@@ -14,6 +14,7 @@ Dedicated and skilled musician and technology professional. Seeking opportunitie
 
 ## Core Qualifications
 
+- Google IT Support Professional Certificate
 - Windows/Mac/Linux/IOS/Android Proficient
 - Virtual machine proficiency
 - Source version control (Git)
@@ -24,7 +25,7 @@ Dedicated and skilled musician and technology professional. Seeking opportunitie
 ## Education 
 
 ### Google IT Support Professional Certificate - Coursera, Online 2021
-### Bachelor of Music Education - Florida Atlantic University - Boca Raton - 2017-present
+### Bachelor of Music Education - Florida Atlantic University - Boca Raton - 2017-Anticipated Graduation in 2022
 
 ### High School Diploma - Park Vista Community High School - Palm Beach County 2017
 
