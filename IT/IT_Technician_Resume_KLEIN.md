@@ -1,58 +1,45 @@
-# IT Support Associate Resume
+# David A Klein
+Technical Support Specialist
+530 North E St. Lake Worth, FL
+(561) 324-4750 | David@kleinhorn.com | linkedin.com/in/dkleindev
 
-## David Klein
-### Google IT Support Professional Certificate
+## OBJECTIVE
+Hard-working individual seeking a full-time role in the field of Information Technology. Experience as a Technical Professional Data Engineer, and Customer Service Representative. Google IT Support Professional Certified.
 
-david@kleinhorn.com
-561-324-4750
-https://www.linkedin.com/in/dkleindev/
-https://github.com/KleinHorn
+## TECHNICAL SKILLS
+Computer Hardware: Diagnosis & repair of Intel/AMD & Apple desktop/laptop hardware.
+Operating Systems: Windows, Linux, Mac, IOS, Android
+Basic Networking: LAN & WAN
+Virtualization: Oracle VirtualBox
+Source Version Control: Git & GitHub
+Programming Languages: JavaScript, TypeScript, Python
+Web Development: React, HTML5, CSS3, SASS, WordPress
 
-## Objective
+## WORK EXPERIENCE
+Technical Professional	June 2020 – June 2021
+Independent Contractor	Palm Beach Gardens
+•	Operated, programmed, and maintained a HAAS Vertical CNC Mill
+•	Programmed control systems for proprietary carbon fiber curing ovens
+•	Troubleshooted network and software issues
+•	Created CAD models to implement new design of proprietary ovens in Fusion 360 and SOLIDWORKS.
 
-Dedicated and skilled musician and technology professional. Seeking opportunities to learn and grow in IT support, provide world class customer service, and develop full-stack applications.
-
-## Core Qualifications
-
-- Google IT Support Professional Certificate
-- Windows/Mac/Linux/IOS/Android Proficient
-- Virtual machine proficiency
-- Source version control (Git)
-- MS Office and Google Suite
-- Problem solving
-- Basic networking
-
-## Education 
-
-### Google IT Support Professional Certificate - Coursera, Online 2021
-### Bachelor of Music Education - Florida Atlantic University - Boca Raton - 2017-Anticipated Graduation in 2022
-
-### High School Diploma - Park Vista Community High School - Palm Beach County 2017
-
-## Experience 
-
-### Technical Professional 06-2020 - 06/2021
-Contractor
-- Operated, programmed and maintained a HAAS Vertical CNC Mill
-- Programmed control systems for proprietary carbon fiber curing ovens.
-- Troubleshooted general network and software issues
-
-### Resident Mentor 12/2018 - 05/2020
+Resident Assistant
 Florida Atlantic University
+•	Maintained staff schedule and resolved schedule conflicts for a staff of 12 Resident Mentors.
+•	Mentored 52 undergraduate nursing students living in Parliament Hall at Florida Atlantic University – Boca Raton.
+•	Maintained safety standards and conducted health and safety checks.
 
-- Responsible for maintaining staff schedule and resolving schedule conflicts.
-- Mentored 52 undergrad residents living in the first year residence hall.
-- Maintained safety standards in college dormitory.
-
-### Customer Service 06/2017 - 12/2018
+Customer Service	June 2017 – December 2018
 Publix Super Markets
+•	Provided world class customer service.
+•	Balanced front office registers.
+Data Engineer	November 2015 – April 2017
+SmartProcure Inc. – Contract 
+•	Parsed government purchase order data into company database.
+•	Maintained quality of data entering company database by using proprietary tooling.
 
-- Provided world class customer service.
-- Balanced front office books and registers.
-  
+## EDUCATION
+Google IT Support Professional Certificate	October 2021
 
-### Data Engineer 11/2015 - 04/2017
-SmartProcure - Contract
-
-- Parsing government purchase order data into company database.
-- Provide configurations for company tooling to maintain quality of data and to pull new data into database.
+Florida Atlantic University	2017-Anticipated December 2021
+Bachelor of Music Education | Resident Assistant | Drum Major
